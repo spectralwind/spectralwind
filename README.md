@@ -13,4 +13,4 @@
 
 [react]: https://reactjs.org
 [node.js]: https://nodejs.org
-[telegram]: https://t.me/spectral_wind
+[telegram]: https://t.me/onetwothreebranch
