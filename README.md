@@ -2,7 +2,7 @@
 
 🧠 learning [react][react], [node.js][node.js]  
 📫 how to reach me: [telegram][telegram]  
-⚡ fun fact: follow your heart, but just take a coffee with you  
+☕️ follow your heart, but just take a coffee with you  
 
 ### skills and experience
 
